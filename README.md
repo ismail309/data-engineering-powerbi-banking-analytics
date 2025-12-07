@@ -28,3 +28,11 @@ A complete, enterprise-grade solution for generating realistic synthetic banking
 - **Security-conscious** design with PII protection patterns
 
 ## 📁 Project Structure
+data-engineering-powerbi-banking-analytics/
+├── src/ # Python source code
+├── data/ # Sample datasets
+├── powerbi/ # Power BI dashboards and assets
+├── notebooks/ # Jupyter notebooks for exploration
+├── docs/ # Documentation
+├── tests/ # Test suites
+└── examples/ # Usage examples
