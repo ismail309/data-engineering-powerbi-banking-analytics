@@ -1,0 +1,11 @@
+{
+  "generation_date": "2025-12-07T14:55:42.866818",
+  "seed": 42,
+  "record_counts": {
+    "customers": 100,
+    "accounts": 240,
+    "transactions": 10906,
+    "branches": 50,
+    "loans": 25
+  }
+}
